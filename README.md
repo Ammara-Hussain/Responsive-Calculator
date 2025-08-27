@@ -4,6 +4,7 @@
 This is a **fully functional web-based calculator** built using **HTML, CSS, and JavaScript**.  
 It allows users to perform basic arithmetic operations, as well as trigonometric and square root calculations.  
 
+## Live Demo:  https://ammara-hussain.github.io/Responsive-Calculator/
 This project demonstrates hands-on skills in **DOM manipulation, event handling, and responsive UI design**.
 
 
